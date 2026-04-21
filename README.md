@@ -12,8 +12,10 @@ This repository contains our hackathon projects, experiments, and ideas.
 - Real-time systems
 
 ## 👨‍💻 Team Members
-- Anfal
-- Salman
+- Mohammed Anfal
+- Arshad
+- Khushi
+- Aishwarya
 
 ## 📌 Status
 🚧 Project idea will be finalized during the hackathon
