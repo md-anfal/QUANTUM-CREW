@@ -13,9 +13,9 @@ This repository contains our hackathon projects, experiments, and ideas.
 
 ## 👨‍💻 Team Members
 - Mohammed Anfal
-- Arshad
-- Khushi
-- Aishwarya
+- Aboobacker Arshad K
+- Khushi S
+- Aishwarya S
 
 ## 📌 Status
 🚧 Project idea will be finalized during the hackathon
